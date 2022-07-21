@@ -4,6 +4,7 @@ import { FaStar } from "react-icons/fa";
 import { FaBuilding } from "react-icons/fa";
 import { FaLink } from "react-icons/fa";
 import { FaUsers } from "react-icons/fa";
+import { FaUser } from "react-icons/fa";
 import { BsFillGearFill } from "react-icons/bs";
 import { BsChevronDown } from "react-icons/bs";
 import { BsChevronUp } from "react-icons/bs";
@@ -28,7 +29,7 @@ const Navbar = () => {
           </li>
           <li className="nav__item">
             <div className="nav__item--inner">
-              <FaHome className="nav__item--icon" /> Intels
+              <FaStar className="nav__item--icon" /> Intels
             </div>
             <div className="nav__item--pill">
               <p>4 Unread</p>
@@ -36,7 +37,7 @@ const Navbar = () => {
           </li>
           <li className="nav__item">
             <div className="nav__item--inner">
-              <FaStar className="nav__item--icon" /> Leads
+              <FaUser className="nav__item--icon" /> Leads
             </div>
             <div className="nav__item--pill">
               <p>4 Unread</p>

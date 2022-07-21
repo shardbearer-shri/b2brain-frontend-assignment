@@ -258,6 +258,9 @@ img {
   }
 }
 /* quick-actions */
+.quick-actions {
+  /* width: 100%; */
+}
 .quick-actions h4 {
   margin: 1rem 0rem;
   padding: 0.5rem 0rem;
