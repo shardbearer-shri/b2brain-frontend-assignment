@@ -1,12 +1,10 @@
-# B2Brain Front End Assignment Project
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Objective
 
-- To Serve a single page with all relevant HTML/CSS that visually matches the specs from the figma[ Link](https://www.figma.com/proto/ajoMUTBD4az0yUymEdJUN8/Specs-for-Frontend-Assignment?node-id=0%3A1&viewport=709%2C461%2C0.15&scaling=min-zoom&starting-point-node-id=3%3A150)
-
-- Use the provided search API to render content based on the search query.
+- To Serve a single page with all relevant HTML/CSS
 
 ## Result
 
